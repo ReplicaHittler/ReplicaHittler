@@ -1,6 +1,5 @@
-![SoExcited~GIF](https://github.com/ReplicaHittler/read.me/assets/150236618/56c0bad7-f280-48d9-ae84-dbc05f2dacdf)- 👋 Hi, I’m @ReplicaHittler
+- 👋 Hi, I’m @ReplicaHittler aka Ahad.
 - 🌱 I’m currently learning Coding.
+![AfraidCatGIF](https://github.com/ReplicaHittler/read.me/assets/150236618/dbdb7bf9-1243-4133-9b4c-e9c21024f213)
 
 Nothing More :/
-![MuaKissGIF](https://github.com/ReplicaHittler/read.me/assets/150236618/f705f9b8-6f06-45db-9b97-73372f3e6e8f)
-
