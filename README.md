@@ -1,3 +1,5 @@
+    int x{5}, y{5};
+    y += x;
 - 👋 Hi, I’m @ReplicaHittler aka Ahad.
 - 🌱 I’m currently learning Coding.
 - Nothing More :/
